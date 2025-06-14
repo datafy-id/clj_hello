@@ -4,4 +4,5 @@
         io.github.cozodb/cozo_java {:mvn/version "0.7.5"}
         org.suskalo/coffi {:mvn/version "1.0.615"}
         datalevin/datalevin {:mvn/version "0.9.22"}
-        org.clojure/core.logic {:mvn/version "1.1.0"}}}
+        org.clojure/core.logic {:mvn/version "1.1.0"}
+        com.rpl/specter {:mvn/version "1.1.4"}}}
