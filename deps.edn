@@ -3,4 +3,5 @@
         org.bouncycastle/bcprov-jdk15to18 {:mvn/version "1.78"}
         io.github.cozodb/cozo_java {:mvn/version "0.7.5"}
         org.suskalo/coffi {:mvn/version "1.0.615"}
-        datalevin/datalevin {:mvn/version "0.9.22"}}}
+        datalevin/datalevin {:mvn/version "0.9.22"}
+        org.clojure/core.logic {:mvn/version "1.1.0"}}}
